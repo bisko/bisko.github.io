@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Biser Perchinkov",
+    "label": "Code Wrangler",
+    "picture": "https://en.gravatar.com/userimage/17775143/7170b49820d7043c1ed818b08a1f813c.jpeg?size=600",
+    "email": "biser@bisko.be",
+    "phone": "",
+    "website": "http://bisko.be",
+    "summary": "Bisko hails from Sofia, Bulgaria. A self-taught web developer who loves writing code and tries to find ways to find a way to surpass the limits.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Sofia",
+      "countryCode": "BG",
+      "region": "Sofia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "bisko",
+        "url": "http://github.com/bisko"
+      },
+      {
+        "network": "Twitter",
+        "username": "biskobe",
+        "url": "https://twitter.com/biskobe"
+      },
+      {
+        "network": "Facebook",
+        "username": "biskobe",
+        "url": "https://www.facebook.com/biskobe"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Automattic",
+      "position": "Code Wrangler",
+      "website": "https://automattic.com",
+      "startDate": "2016-03",
+      "endDate": "",
+      "summary": "Wrangling code, breaking things, fixing said things.",
+      "highlights": []
+    },
+    {
+      "company": "Komfo",
+      "position": "Software Developer",
+      "website": "https://komfo.com",
+      "startDate": "2014-07",
+      "endDate": "2016-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Foxtrot Sierra Ltd",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2008-11",
+      "endDate": "2014-07",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "New Bulgarian University",
+      "area": "Networking Technologies",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "React",
+        "Redux",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "PHP",
+        "MySQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Excellent"
+    },
+    {
+      "language": "Bulgarian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Electronics",
+      "keywords": [
+        "Arduino",
+        "Sensors",
+        "Weather Stations"
+      ]
+    },
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
